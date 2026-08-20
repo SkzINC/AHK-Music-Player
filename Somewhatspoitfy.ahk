@@ -168,6 +168,10 @@ PlayTG:
 SoundPlay, G:\Coding\AHK\Music Player\Music Files\TG.mp3,
 Return
 PlayTD:
+
+PlayTDLV:
+SoundPlay, G:\Coding\AHK\Music Player\Music Files\TDLV.mp3,
+
 SoundPlay, G:\Coding\AHK\Music Player\Music Files\TD.mp3,
 Return
 PlayMM:
