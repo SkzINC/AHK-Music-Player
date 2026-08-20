@@ -161,10 +161,20 @@ Return
 PlayKC:
 SoundPlay, G:\Coding\AHK\Music Player\Music Files\KC.mp3,
 Return
+
+PlayKC:
+SoundPlay, G:\Coding\AHK\Music Player\Music Files\KC.mp3,
+Return
+
+PlayKC:
+SoundPlay, G:\Coding\AHK\Music Player\Music Files\KC.mp3,
+Return
 PlayDR:
 SoundPlay, G:\Coding\AHK\Music Player\Music Files\DR.mp3,
 Return
 PlayTG:
+
+
 SoundPlay, G:\Coding\AHK\Music Player\Music Files\TG.mp3,
 Return
 PlayTD:
